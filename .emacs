@@ -15,7 +15,7 @@
 (el-get 'sync)
 
 
-;; подгружаем файлы с настройками
+;; add config files
 (load "~/.emacs.d/emacs_conf/my_usability.el") ;settings for usability
 (load "~/.emacs.d/emacs_conf/my_theme.el") ;settings for theme
 (load "~/.emacs.d/emacs_conf/my_python.el") ;settings for python
